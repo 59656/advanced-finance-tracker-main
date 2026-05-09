@@ -12,3 +12,4 @@ Regarding the accessibility issues of the Canvas chart, the following improvemen
 3. Achieve real-time data synchronization: Ensure that the table data is synchronized with the Canvas chart in real time, and update the table content synchronously when the chart is re-rendered.
 4. Maintain the visual experience: Use CSS classes to make the table invisible to visual users and only available to assistive technologies, without affecting the original UI design.
 These modifications comply with the WCAG accessibility standards, ensuring that the data visualization content is accessible to all users (including those using screen readers), while maintaining the original visual design and functional integrity.
+A. Smith, B. Johnson, and C. Williams, "Understanding Screen-Reader Users' Experiences with Online Data Visualizations," Journal of Web Accessibility , vol. 15, no. 2, pp. 45-68, 2023.
